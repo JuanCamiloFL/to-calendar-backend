@@ -1,0 +1,1291 @@
+[
+      {
+        "nombre": "Inglés",
+        "niveles": [
+          {
+            "nivel": "A1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Saludos y presentaciones",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "El verbo 'to be' y artículos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Pronombres posesivos y vocabulario familiar",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Práctica 1",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Días de la semana y meses",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Colores y adjetivos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Verbos regulares en presente",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Práctica 2",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Adverbios de frecuencia",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Preposiciones de lugar",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Presente continuo",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Práctica 3",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Planes futuros",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "There is/There are",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Dar direcciones",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Práctica 4",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Verbos irregulares",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Pronombres indefinidos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Repaso de pronombres indefinidos y verbos irregulares",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Práctica final",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "A2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Preguntas y respuestas básicas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Vocabulario de ocupaciones",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Lugares y ciudades",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Presente simple",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Frecuencia de actividades",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Preposiciones de lugar",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Pasado simple con verbos regulares",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Pasado simple con verbos irregulares",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Actividades de ocio en pasado",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Verbos modales 'can' y 'can’t'",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Futuro con 'going to'",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Compras y dinero",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Comparativos y superlativos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Vocabulario de salud",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Obligaciones y responsabilidades",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Práctica final",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Pasado simple y continuo",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Voz pasiva",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Condicionales tipo 0 y 1",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Futuro simple y futuro perfecto",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Expresiones de opinión",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Experiencias y eventos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Expresiones idiomáticas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Comprensión de textos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Narrar historias",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Estilo indirecto",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Vocabulario sobre tecnología",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Preguntas complejas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Gerundios e infinitivos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Comparaciones y superlativos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Frases relativas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Repaso final",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Estructuras complejas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Voz pasiva en diferentes tiempos",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Modales en pasado",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Argumentación",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Discurso indirecto",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Vocabulario de negocios",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Inglés académico",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Comprensión de lecturas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Estilos de vida",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Exposición de ideas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Resúmenes y críticas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Conversaciones avanzadas",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Presentaciones formales",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Práctica y repaso",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Discusión de temas actuales",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Proyectos grupales",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Evaluación final",
+                "descripcion": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Francés",
+        "niveles": [
+          {
+            "nivel": "A1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Salutations et présentations",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "L’alphabet et les nombres",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Les pronoms personnels",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Pratique 1",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Les jours de la semaine et les mois",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Les couleurs et les adjectifs",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Les verbes réguliers au présent",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Pratique 2",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Les adverbes de fréquence",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Les prépositions de lieu",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Le présent continu",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Pratique 3",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Les projets futurs",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Il y a/Il y a des",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Donner des directions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Pratique 4",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Les verbes irréguliers",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Les pronoms indéfinis",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Révision des pronoms indéfinis et des verbes irréguliers",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Pratique finale",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "A2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Les expressions quotidiennes",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Les professions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Les activités de loisirs",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Le futur avec 'aller'",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Les verbes réfléchis",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "La description d'objets",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Le passé composé",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Les verbes en -re",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Les prépositions de mouvement",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Les saisons et le temps",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Les phrases conditionnelles",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Le vocabulaire de la santé",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Le comparatif et le superlatif",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Les sentiments et émotions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Les projets pour l'avenir",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Pratique finale",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Le passé simple",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Le futur simple",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Les adjectifs possessifs",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Le discours indirect",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Les phrases hypothétiques",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Le vocabulaire de la technologie",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Les émotions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Les souhaits et regrets",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Les loisirs et les passions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Les phrases complexes",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Les prépositions de temps",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Les festivals et traditions",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Les activités en plein air",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "La cuisine française",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Les vacances",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Pratique finale",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Les débats",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "L'argumentation",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Les articles",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Les médias et la communication",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Le vocabulaire de l'écologie",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "La littérature",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Les voyages",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Les cultures du monde",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Les changements climatiques",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Les différences culturelles",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Les problèmes sociaux",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Les projets de société",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Pratique et révision",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Les aspirations",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Les compétences professionnelles",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Les innovations",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Pratique finale",
+                "descripcion": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "nombre": "Alemán",
+        "niveles": [
+          {
+            "nivel": "A1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Begrüßungen und Vorstellungsrunden",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Das Alphabet und die Zahlen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Die Personalpronomen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Übung 1",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Die Wochentage und Monate",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Farben und Adjektive",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Regelmäßige Verben im Präsens",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Übung 2",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Häufigkeitsadverbien",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Präpositionen des Ortes",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Das Präsens Kontinuierlich",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Übung 3",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Zukunftsplanung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Es gibt/Es gibt...",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Wegbeschreibungen geben",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Übung 4",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Unregelmäßige Verben",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Unbestimmte Pronomen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Überprüfung von unbestimmten Pronomen und unregelmäßigen Verben",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Endübung",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "A2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Alltägliche Ausdrücke",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Berufe",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Freizeitaktivitäten",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Zukunft mit 'gehen'",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Reflexive Verben",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Gegenstände beschreiben",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Das Perfekt",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Verben auf -en",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Präpositionen des Ortes",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Jahreszeiten und Wetter",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Konditionalsätze",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Gesundheitsvokabular",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Vergleiche und Superlative",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Gefühle und Emotionen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Zukunftspläne",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Endübung",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B1",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Das Präteritum",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Das Futur",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Possessivpronomen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Indirekte Rede",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Hypothetische Sätze",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Technologievokabular",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Emotionen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Wünsche und Bedauern",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Hobbys und Interessen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Komplexe Sätze",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Zeitpräpositionen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Festivals und Traditionen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Aktivitäten im Freien",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Deutsche Küche",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Urlaub",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Endübung",
+                "descripcion": ""
+              }
+            ]
+          },
+          {
+            "nivel": "B2",
+            "total_sesiones": 20,
+            "sesiones": [
+              {
+                "sesion": 1,
+                "titulo": "Debatten",
+                "descripcion": ""
+              },
+              {
+                "sesion": 2,
+                "titulo": "Argumentation",
+                "descripcion": ""
+              },
+              {
+                "sesion": 3,
+                "titulo": "Artikel",
+                "descripcion": ""
+              },
+              {
+                "sesion": 4,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 5,
+                "titulo": "Medien und Kommunikation",
+                "descripcion": ""
+              },
+              {
+                "sesion": 6,
+                "titulo": "Ökologisches Vokabular",
+                "descripcion": ""
+              },
+              {
+                "sesion": 7,
+                "titulo": "Literatur",
+                "descripcion": ""
+              },
+              {
+                "sesion": 8,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 9,
+                "titulo": "Reisen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 10,
+                "titulo": "Kulturen der Welt",
+                "descripcion": ""
+              },
+              {
+                "sesion": 11,
+                "titulo": "Klimawandel",
+                "descripcion": ""
+              },
+              {
+                "sesion": 12,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 13,
+                "titulo": "Kulturelle Unterschiede",
+                "descripcion": ""
+              },
+              {
+                "sesion": 14,
+                "titulo": "Gesellschaftliche Probleme",
+                "descripcion": ""
+              },
+              {
+                "sesion": 15,
+                "titulo": "Gesellschaftliche Projekte",
+                "descripcion": ""
+              },
+              {
+                "sesion": 16,
+                "titulo": "Übung und Überprüfung",
+                "descripcion": ""
+              },
+              {
+                "sesion": 17,
+                "titulo": "Ziele",
+                "descripcion": ""
+              },
+              {
+                "sesion": 18,
+                "titulo": "Berufliche Fähigkeiten",
+                "descripcion": ""
+              },
+              {
+                "sesion": 19,
+                "titulo": "Innovationen",
+                "descripcion": ""
+              },
+              {
+                "sesion": 20,
+                "titulo": "Endübung",
+                "descripcion": ""
+              }
+            ]
+          }
+        ]
+      }
+    
+]
+  
